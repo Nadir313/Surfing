@@ -12,7 +12,7 @@ for(var i =0 ;i<board.length ; i++ ){
         <td> ${board[i].Designation}  </td>
         <td> ${board[i].Price}</td>
         <td> ${board[i].Categorie} </td>
-        <td> ${board[i].Disponibilite[0]}</td>
+        <td> ${board[i].Disponibilite}</td>
         <td>
         <span>${board[i].Supplier.Adresse}</span>
         <hr>
