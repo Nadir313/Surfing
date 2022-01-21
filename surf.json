@@ -1,0 +1,153 @@
+{
+   "surfingBoard" : [
+       {
+           "ID" :"3684D8"  ,
+           "Designation" : "Shortboard" ,
+           "Price" : "750 Dh" ,
+           "Categorie" : "Small" ,
+           "Disponibilite" : [
+               "agadir" , "casa" ,"rabat" , "Essouira" , "safi" ,"imsouan" 
+           ],
+           "Supplier" :
+           {
+               "raison" : "Rod Surf Shop" ,
+               "Adresse" : " Rod Surf Shop 10 A Blco E6 Dakhla Agadir Morocco 80000 "
+            }
+       } ,
+       {
+        "ID" : "77F533" ,
+        "Designation" : "The Gun" ,
+        "Price" : "3000 DH" ,
+        "Categorie" :  "Tall" ,
+        "Disponibilite" : [
+            "agadir" , "casa" ,"rabat" , "Essaouira" , "safi" ,"Dakhla"
+        ],
+        "Supplier" :
+        {
+            "raison" : "Rip Curl shop " ,
+            "Adresse" : "  Anza Tadart bloc B 80000  "
+         }
+    },
+
+       {
+        "ID" : "75A489B" ,
+        "Designation" : "Polyurethane (poly) surfboards" ,
+        "Price" : "800 DH" ,
+        "Categorie" : "Small" ,
+        "Disponibilite" : [
+            "agadir" , "casa" ,"rabat" , "Essouira" , "safi" ,"imsouan" ,"CasaBlanca"
+        ],
+        "Supplier" :
+        {
+            "raison" : "Banana Surf Shop" ,
+            "Adresse" : " Banana Surf aourir-anza "
+         }
+    },
+
+   
+
+    {
+        "ID" : "9153F2" ,
+        "Designation" : "Wooden surfboard"  ,
+        "Price" : "950 DH" ,
+        "Categorie" : "Medium" ,
+        "Disponibilite" : [
+            "agadir"  ,"rabat" , "Essouira" , "safi" ,"imsouan" ,"Dakhla"
+        ],
+        "Supplier" :
+        {
+            "raison" : "Banana Surf Shop" ,
+            "Adresse" : " Banana Surf Aourir-Anza  "
+         }
+    },
+    {
+        "ID" : "574C55" ,
+        "Designation" : "Stand-Up Paddleboard (SUP)" ,
+        "Price" : "4000 dh" ,
+        "Categorie" : "Tall" ,
+        "Disponibilite" : [
+            "agadir" , "Essaouira" , "Sidi Ifni" ,"imsouan" ,"Dakhla"
+        ],
+        "Supplier" :
+        {
+            "raison" : "Rod Surf Shop" ,
+            "Adresse" : " Rod Surf Shop 10 A Blco E6 Dakhla Agadir Morocco 80000 "
+         }
+    },
+
+    {
+        "ID" : "26290B9" ,
+        "Designation" : "Epoxy surfboards" ,
+        "Price" : "999 DH" ,
+        "Categorie" : "Tall" ,
+        "Disponibilite" : [
+            "agadir" , "casa" ,"rabat" , "Essouira" , "safi" ,"Dakhla"
+        ],
+        "Supplier" :
+        {
+            "raison " : "Banana Surf Shop" ,
+            "Adresse" : " Banana Surf Aourir-Anza "
+         }
+    },
+    {
+        "ID" : "703A112" ,
+        "Designation" : "Fish"  ,
+        "Price" : "800 DH" ,
+        "Categorie" :  "Small" ,
+        "Disponibilite" : [
+            "agadir" , "casa" ,"rabat" , "Essouira" , "CasaBlanca" ,"imsouan" ,"Kenitra"
+        ],
+        "Supplier" :
+        {
+            "raison" : "Banana Surf Shop" ,
+            "Adresse" : " Banana Surf Aourir-Anza "
+         }
+    },
+
+    {
+        "ID" : "6143U7" ,
+        "Designation" : "Longboard"  ,
+        "Price" : "2599 DH" ,
+        "Categorie" : "Medium" ,
+        "Disponibilite" : [
+            "agadir" , "casa" ,"rabat" , "Essouira" , "safi" ,"imsouan" ,"Dakhla"
+        ],
+        "Supplier" :
+        {
+            "raison" : "Rip Curl Shop" ,
+            "Adresse" : " Anza Tadart bloc B 80000  "
+         }
+    },
+
+    {
+        "ID" : "2139RC" ,
+        "Designation" : "Funboard" ,
+        "Price" : "2500 DH" ,
+        "Categorie" : "Medium" ,
+        "Disponibilite" : [
+            "agadir" , "casa" ,"rabat" , "Essouira" , "safi" ,"imsouan" ,"Dakhla"
+        ],
+        "Supplier" :
+        {
+            "raison" : "Anza Surf Shop" ,
+            "Adresse" : " Anza Tadart bloc A 80000  "
+         }
+    } ,
+
+
+    {
+        "ID" : "19876E5" ,
+        "Designation" : "The Tow-In Board" ,
+        "Price" : "4500 DH" ,
+        "Categorie" : "Tall" ,
+        "Disponibilite" : [
+            "agadir","Sidi Ifni" , "Essaouira" ,"Sidi Ifni" ,"Dakhla"
+        ],
+        "Supplier" :
+        {
+            "raison" : "Rod Surf Shop " ,
+            "Adresse" : " Rod Surf Shop 10 A Blco E6 Dakhla Agadir Morocco 80000 "
+         }
+    }
+    ]
+}

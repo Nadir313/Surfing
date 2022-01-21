@@ -1,0 +1,89 @@
+#surfLogo{
+    /* width:"50px" ;
+    height:"30px" ; */
+    border-radius: 60px;
+    width: 90px;
+    height: 80px;
+}
+nav{
+    height: 90px;
+}
+.banner-image{
+    background-image: url(images/ssssssssss.jpg);
+    background-size: cover;
+}
+#myTable{
+    border: 2px solid red;
+    width: 105%;
+    margin-left: -30px;
+
+}
+#hero{
+    color: rgb(14, 54, 66);
+    margin: 0px 0px 60px 50px;
+    font-family:sans-serif
+}
+#hero span{
+    color: rgb(13, 31, 54);
+}
+article{
+    background-image: url(images/back.jpg);
+    font-family:sans-serif;
+    margin: 3px;
+    padding: 20px;
+    background-color: rgb(192, 221, 229);
+    display: grid;
+    grid-template-columns: repeat(4 , 1fr);
+    grid-column-gap: 2px;
+    border-radius: 6px;
+
+}
+article h2{
+    color: rgb(11, 82, 126);
+    text-align: center;
+}
+#btn:hover{
+    background-color: rgb(172, 201, 172);
+}
+.surfingPics{
+    /* border: 2px solid red; */
+    border-radius: 3px;
+    margin-top: 8px;
+    height: 200px;
+    width: 340px;
+}
+#btn{
+    margin-left: 350px;
+    font-size: larger;
+    color: rgb(11, 82, 126);
+    height: 40px;
+    width: 120px;
+    border-radius: 5px;
+}
+#search{
+    border-radius: 5px;
+    margin: 10px;
+    height: 40px;
+    width: 300px;
+}
+.icons{
+    height: 60px ;
+    width:50px ;
+}
+tbody{
+    border: 3px solid black;
+}
+.qoutes{
+    color: rgb(11, 82, 126);
+    font-size: medium;
+    font-family: fantasy;
+    text-align: center;
+}
+span1{
+    color: rgb(226, 140, 109);
+    font-size: larger;
+    font-weight: bold;
+}
+section{
+    background-color: rgb(224, 234, 240);
+}

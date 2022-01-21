@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="js/jquery-3.6.0.min.js"></script>
+    <title>Surfing Boards </title>
+</head>
+<body>
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark text-primary p-md-3">
+        <div class="container ">
+            <a href="#" class="navbar-brand text-warning fs-3"> 
+                <img id="surfLogo"  src="images/logosurf.png" alt="" >
+                Surf Beach </a>
+
+            <button type="button" class="navbar-toggler " data-bs-target="#navbarNav" data-bs-toggle="collapse" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle Navbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse " id="navbarNav">
+                <div class="mx-auto"></div>
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a href="#home" class="nav-link text-warning">home</a></li>
+                </ul>
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a href="#surfing" class="nav-link text-warning">Surfing</a></li>
+                </ul>
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a href="#myTable" class="nav-link text-warning">Product</a></li>
+                </ul>
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a href="" class="nav-link text-warning"></a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div id="home" class="banner-image w-100  d-flex justify-content center align-items-center" style="height: 500px;">
+        <h1 id="hero"> Surfing is a Way to Be Free <br> <span> Go Surfing & Be Free </span>  </h1>
+
+    </div>
+    
+<section>
+   <article id="surfing">
+    <div>
+        <h2> <img class="icons" src="images/mind-icon-png-14.jpg" alt=""> Mind </h2>
+        <p> Being present in the moment, with a calmly focused mind. Simply feeling the pleasure of riding the wave. Surfing in the now, not worried about the future or the past.</p>
+    </div>
+    <div>
+        <h2> <img class="icons" src="images/boarIcon.png" alt=""> Equipment  </h2>
+        <p>Contemporary <span1> surfboards</span1> are still made from polyurethane and fibreglass. However, they are shorter 1.8–2 metres long, and very light 2.3–2.7 kg. </p>
+    </div>
+    <div>
+        <h2>  <img class="icons" src="images/oceon.png" alt=""> Ocean </h2>
+        <p> The ocean is a life force that pulsates energy. Understanding and learning how to tap into a waves power zones makes surfing effortless.</p>
+    </div>
+    <div>
+        <h2> <img class="icons" src="images/surfing-icon-17.jpg" alt=""> Body</h2>
+        <p> Doing less and moving with awareness and purpose. Movements are done with flow, balance and effortless grace.</p>
+    </div>
+   </article>
+     <div class="container">
+         <div>
+             <button id="btn">click here</button>
+             <input id="search" type="text " placeholder="search ">
+         </div>
+        <table id="myTable" class="table border-dark table-success table-striped" p-4">
+            <thead  class="border-dark">
+              <tr>
+                <th scope="col">ID</th>
+                <th scope="col">Designation</th>
+                <th scope="col">Price(dh)</th>
+                <th scope="col">Categorie</th>
+                <th scope="col">Availibilite</th>
+                <th scope="col">Supplier</th>
+              </tr>
+            </thead>
+            <tbody id="tbody">
+
+            </tbody>
+       </div>
+       /////////////////////
+       <div id="test" class="container">
+        <div id="picturesRow" class="row">
+          <div class="col">
+            <img class="surfingPics" src="images/van.jpg" alt="">
+           <p class="qoutes"> Kepp it Simple, Surf more</p>
+          </div>
+          <div class="col">
+              <img  class="surfingPics" src="images/board2.jpg" alt="">
+              <p class="qoutes">Your Board is part of You </p>
+          </div>
+          <div class="col">
+            <img  class="surfingPics" src="images/board3.jpeg" alt="">
+            <p class="qoutes">Passion is what keeps you going  </p>
+          </div>
+        </div>
+      </div>
+</section>    
+<footer>
+    <div class="container">
+        <div class="row">
+          <div class="col">
+          </div>
+          <div class="col order-5">
+            Second in DOM, with a larger order
+          </div>
+          <div class="col order-1">
+            Third in DOM, with an order of 1
+          </div>
+        </div>
+      </div>
+
+</footer>
+        <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>
