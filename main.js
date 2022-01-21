@@ -70,18 +70,4 @@ window.addEventListener("scroll" , ()=>{
         nav.classList.remove("bg-dark" ,"shadow");
     }
 }) 
-////////// 
 
-// function Searching(value1 ,board ){
-//     var filtredData = []
-
-//     for(var i = 0 ; i<board.length ; i++){
-//         value1 = value1.toLowerCase() ;
-//         var name = board[0] ;
-//         console.log(name)
-
-//     }
-//     return filtredData()
-
-
-// }
